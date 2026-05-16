@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Env
+.env
+.env.local
+
+# Next.js
+frontend/.next/
+frontend/node_modules/
+
+# Docker volumes
+postgres_data/
+redis_data/
